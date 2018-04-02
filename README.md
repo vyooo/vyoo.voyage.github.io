@@ -1,7 +1,7 @@
 # vyoo.voyage.github.io
 
 
-https://vyoo.voyage.github.io/
+https://vyooo.github.io/
 ---
 
 > fellowship of aSTA
